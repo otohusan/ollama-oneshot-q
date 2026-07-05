@@ -1,0 +1,6 @@
+.venv/
+Pipfile.lock
+__pycache__/
+skill.md
+.env
+*.egg-info/
